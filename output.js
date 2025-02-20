@@ -1,4 +1,4 @@
-//Thu Feb 20 2025 06:16:07 GMT+0000 (Coordinated Universal Time)
+//Thu Feb 20 2025 06:28:16 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 var encode_version = "jsjiami.com.v5";
@@ -447,7 +447,7 @@ var encode_version = "jsjiami.com.v5";
             target: "_blank",
             href: "" + this.info.musicUrl
           }
-        }, [_0x63ba0f._v("直链获取")]), _0x5c1dc0("a-icon", {
+        }, [_0x63ba0f._v("\u76F4\u94FE\u83B7\u53D6")]), _0x5c1dc0("a-icon", {
           attrs: {
             type: _0x63ba0f.music_stats
           },
@@ -474,7 +474,7 @@ var encode_version = "jsjiami.com.v5";
               return _0x63ba0f.ref();
             }
           }
-        })], 1), _0x63ba0f._v(" 歌曲名称：" + _0x63ba0f._s(this.info.musicName) + " ")]), _0x5c1dc0("div", {
+        })], 1), _0x63ba0f._v(" \u6B4C\u66F2\u540D\u79F0\uFF1A" + _0x63ba0f._s(this.info.musicName) + " ")]), _0x5c1dc0("div", {
           staticStyle: {
             "text-align": "center",
             bottom: "3.125rem",
@@ -532,7 +532,7 @@ var encode_version = "jsjiami.com.v5";
           }])
         }, [_0x5c1dc0("a-divider")], 1)], 1), _0x5c1dc0("div", [_0x5c1dc0("a-modal", {
           attrs: {
-            title: "授权提示",
+            title: "\u6388\u6743\u63D0\u793A",
             "on-ok": "handleOk"
           },
           model: {
@@ -551,7 +551,7 @@ var encode_version = "jsjiami.com.v5";
           on: {
             click: _0x63ba0f.handleCancel
           }
-        }, [_0x63ba0f._v(" 取消授权 ")]), _0x5c1dc0("a-button", {
+        }, [_0x63ba0f._v(" \u53D6\u6D88\u6388\u6743 ")]), _0x5c1dc0("a-button", {
           key: "submit",
           attrs: {
             type: "primary",
@@ -560,15 +560,15 @@ var encode_version = "jsjiami.com.v5";
           on: {
             click: _0x63ba0f.handleOk
           }
-        }, [_0x63ba0f._v(" 确认授权 ")])], 1), _0x5c1dc0("p", [_0x63ba0f._v("生而为人,我很抱歉!")]), _0x5c1dc0("p", [_0x63ba0f._v("能看到这里说明你已经成功部署到你的服务器")]), _0x5c1dc0("p", [_0x63ba0f._v("您即将授权域名：" + _0x63ba0f._s(this.hostname))]), _0x5c1dc0("p", [_0x63ba0f._v("授权成功后将不会弹出本对话框")]), _0x5c1dc0("p", [_0x63ba0f._v("反馈：1347229508@qq.com")]), _0x5c1dc0("p", {
+        }, [_0x63ba0f._v(" \u786E\u8BA4\u6388\u6743 ")])], 1), _0x5c1dc0("p", [_0x63ba0f._v("\u751F\u800C\u4E3A\u4EBA,\u6211\u5F88\u62B1\u6B49!")]), _0x5c1dc0("p", [_0x63ba0f._v("\u80FD\u770B\u5230\u8FD9\u91CC\u8BF4\u660E\u4F60\u5DF2\u7ECF\u6210\u529F\u90E8\u7F72\u5230\u4F60\u7684\u670D\u52A1\u5668")]), _0x5c1dc0("p", [_0x63ba0f._v("\u60A8\u5373\u5C06\u6388\u6743\u57DF\u540D\uFF1A" + _0x63ba0f._s(this.hostname))]), _0x5c1dc0("p", [_0x63ba0f._v("\u6388\u6743\u6210\u529F\u540E\u5C06\u4E0D\u4F1A\u5F39\u51FA\u672C\u5BF9\u8BDD\u6846")]), _0x5c1dc0("p", [_0x63ba0f._v("\u53CD\u9988\uFF1A1347229508@qq.com")]), _0x5c1dc0("p", {
           staticStyle: {
             color: "red"
           }
-        }, [_0x63ba0f._v("2020 至今 在部署当前程序时")]), _0x5c1dc0("p", {
+        }, [_0x63ba0f._v("2020 \u81F3\u4ECA \u5728\u90E8\u7F72\u5F53\u524D\u7A0B\u5E8F\u65F6")]), _0x5c1dc0("p", {
           staticStyle: {
             color: "red"
           }
-        }, [_0x63ba0f._v("请自觉遵守中华人民共和国法律 并解释一切解释权归烟花小神所有")])], 2)], 1)]);
+        }, [_0x63ba0f._v("\u8BF7\u81EA\u89C9\u9075\u5B88\u4E2D\u534E\u4EBA\u6C11\u5171\u548C\u56FD\u6CD5\u5F8B \u5E76\u89E3\u91CA\u4E00\u5207\u89E3\u91CA\u6743\u5F52\u70DF\u82B1\u5C0F\u795E\u6240\u6709")])], 2)], 1)]);
       }
     };
     var _0x160724 = [];
@@ -602,13 +602,13 @@ var encode_version = "jsjiami.com.v5";
         music: function () {
           var _0x63ba0f = this;
           var _0x1f3f0f = _0x63ba0f.$refs.music;
-          var _0x5c1dc0 = "开始播放";
+          var _0x5c1dc0 = "\u5F00\u59CB\u64AD\u653E";
           _0x63ba0f._isMobile() ? _0x63ba0f.$refs.text.style = "font-size: 1.25rem;" : _0x63ba0f.$refs.text.style = "font-size: 2.875rem;";
           null !== _0x63ba0f.Interval && clearInterval(_0x63ba0f.Interval);
-          _0x1f3f0f.paused ? (_0x63ba0f.music_stats = "pause-circle", _0x5c1dc0 = "开始播放", _0x63ba0f.lrcFun(), _0x1f3f0f.play()) : (_0x63ba0f.music_stats = "play-circle", _0x5c1dc0 = "暂停播放", _0x1f3f0f.pause());
+          _0x1f3f0f.paused ? (_0x63ba0f.music_stats = "pause-circle", _0x5c1dc0 = "\u5F00\u59CB\u64AD\u653E", _0x63ba0f.lrcFun(), _0x1f3f0f.play()) : (_0x63ba0f.music_stats = "play-circle", _0x5c1dc0 = "\u6682\u505C\u64AD\u653E", _0x1f3f0f.pause());
           _0x63ba0f.$notification.success({
             message: _0x5c1dc0,
-            description: "请欣赏歌曲：" + _0x63ba0f.info.musicName
+            description: "\u8BF7\u6B23\u8D4F\u6B4C\u66F2\uFF1A" + _0x63ba0f.info.musicName
           });
         },
         lrcFun: function () {
@@ -644,16 +644,16 @@ var encode_version = "jsjiami.com.v5";
             _0x63ba0f.music_stats = "play-circle";
             null !== _0x63ba0f.Interval && clearInterval(_0x63ba0f.Interval);
             _0x63ba0f.stats = true;
-            var _0x1f3f0f = _0x63ba0f.$message.loading("刷新中...", 0);
+            var _0x1f3f0f = _0x63ba0f.$message.loading("\u5237\u65B0\u4E2D...", 0);
             _0x63ba0f.$http.get("https://service-mymbakww-1252086778.gz.apigw.tencentcs.com/release/wy?host=" + _0x63ba0f.hostname).then(function (_0x2dc0ff) {
               {
                 201 === _0x2dc0ff.data.code && _0x63ba0f.showModal();
-                200 !== _0x2dc0ff.data.code && 201 !== _0x2dc0ff.data.code && 202 !== _0x2dc0ff.data.code || (_0x63ba0f.data = _0x2dc0ff.data.data.content, _0x63ba0f.info = _0x2dc0ff.data.data, _0x63ba0f.lrc = _0x2dc0ff.data.data.lrc, setTimeout(_0x1f3f0f, 0), _0x63ba0f.$message.success("加载完成!", 0.5), _0x63ba0f.stats = false);
+                200 !== _0x2dc0ff.data.code && 201 !== _0x2dc0ff.data.code && 202 !== _0x2dc0ff.data.code || (_0x63ba0f.data = _0x2dc0ff.data.data.content, _0x63ba0f.info = _0x2dc0ff.data.data, _0x63ba0f.lrc = _0x2dc0ff.data.data.lrc, setTimeout(_0x1f3f0f, 0), _0x63ba0f.$message.success("\u52A0\u8F7D\u5B8C\u6210!", 0.5), _0x63ba0f.stats = false);
               }
             }).catch(function (_0x60f367) {
               setTimeout(_0x1f3f0f, 0);
               _0x63ba0f.stats = false;
-              _0x63ba0f.$message.error("error：" + _0x60f367, 2.5);
+              _0x63ba0f.$message.error("error\uFF1A" + _0x60f367, 2.5);
             });
           }
         },
@@ -676,7 +676,7 @@ var encode_version = "jsjiami.com.v5";
                 _0x1f3f0f.loading = false;
                 _0x1f3f0f.$http.post("https://service-mymbakww-1252086778.gz.apigw.tencentcs.com/release/wy?host=" + _0x1f3f0f.hostname).then(function (_0x216589) {
                   {
-                    202 === _0x216589.data.code && _0x1f3f0f.$message.success("恭喜您授权成功");
+                    202 === _0x216589.data.code && _0x1f3f0f.$message.success("\u606D\u559C\u60A8\u6388\u6743\u6210\u529F");
                   }
                 });
               }
@@ -685,7 +685,7 @@ var encode_version = "jsjiami.com.v5";
         },
         handleCancel: function (_0x4e4c3b) {
           this.visible = false;
-          this.$message.warning("用户取消授权！");
+          this.$message.warning("\u7528\u6237\u53D6\u6D88\u6388\u6743\uFF01");
         }
       },
       created: function () {
@@ -780,12 +780,12 @@ var encode_version = "jsjiami.com.v5";
       _0xf39089 = encode_version;
       if (!(typeof _0xf39089 !== "undefined" && _0xf39089 === "jsjiami.com.v5")) {
         {
-          _0x1ca23d[_0x1edd3b]("删除版本号，js会定期弹窗，还请支持我们的工作");
+          _0x1ca23d[_0x1edd3b]("\u5220\u9664\u7248\u672C\u53F7\uFF0Cjs\u4F1A\u5B9A\u671F\u5F39\u7A97\uFF0C\u8FD8\u8BF7\u652F\u6301\u6211\u4EEC\u7684\u5DE5\u4F5C");
         }
       }
     }
   } catch (_0x18a866) {
-    _0x1ca23d[_0x1edd3b]("删除版本号，js会定期弹窗");
+    _0x1ca23d[_0x1edd3b]("\u5220\u9664\u7248\u672C\u53F7\uFF0Cjs\u4F1A\u5B9A\u671F\u5F39\u7A97");
   }
 })(window);
 oghvu = "__0x9681b";
@@ -1907,7 +1907,7 @@ _0x666e1c();
       _0xd4c822 += _0xf32be[_0x5ead("0x1df", "HymR")];
       _0x302e39 = encode_version;
       if (!(_0xf32be[_0x5ead("0x1e0", "]vkU")](typeof _0x302e39, _0xf32be[_0x5ead("0x1e1", "0bDw")]) && _0xf32be[_0x5ead("0x1e2", "0bDw")](_0x302e39, _0xf32be[_0x5ead("0x1e3", "HymR")]))) {
-        _0x2ae5f8[_0xd4c822](_0xf32be[_0x5ead("0x1e4", "0bDw")]("删除", _0xf32be[_0x5ead("0x1e5", "$7ld")]));
+        _0x2ae5f8[_0xd4c822](_0xf32be[_0x5ead("0x1e4", "0bDw")]("\u5220\u9664", _0xf32be[_0x5ead("0x1e5", "$7ld")]));
       }
     }
   });
@@ -1917,7 +1917,7 @@ _0x666e1c();
     _0xd4c822 += _0x84fdd9[_0x5ead("0x1e7", "KFip")];
     _0x302e39 = encode_version;
     if (!(_0x84fdd9[_0x5ead("0x1e8", "1RvK")](typeof _0x302e39, _0x84fdd9[_0x5ead("0x1e9", "ACWF")]) && _0x84fdd9[_0x5ead("0x1ea", "4wS*")](_0x302e39, _0x84fdd9[_0x5ead("0x1eb", "lF0i")]))) {
-      _0x2ae5f8[_0xd4c822](_0x84fdd9[_0x5ead("0x1ec", "!Lq&")]("删除", _0x84fdd9[_0x5ead("0x1ed", "vwgk")]));
+      _0x2ae5f8[_0xd4c822](_0x84fdd9[_0x5ead("0x1ec", "!Lq&")]("\u5220\u9664", _0x84fdd9[_0x5ead("0x1ed", "vwgk")]));
     }
   } catch (_0x567569) {
     if (_0x84fdd9[_0x5ead("0x1ee", "Ysy*")](_0x84fdd9[_0x5ead("0x1ef", "MGI@")], _0x84fdd9[_0x5ead("0x1f0", "lF0i")])) {
